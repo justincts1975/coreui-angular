@@ -1478,7 +1478,7 @@
         AppSidebarNavComponent.decorators = [
             { type: core.Component, args: [{
                         selector: 'app-sidebar-nav',
-                        template: "<app-sidebar-nav-items\r\n  class=\"nav\"\r\n  [items]=\"navItemsArray\">\r\n</app-sidebar-nav-items>\r\n"
+                        template: "<app-sidebar-nav-items\r\n  class=\"nav\"\r\n  [items]=\"navItemsArray\">\r\n</app-sidebar-nav-items>\r\nPOOOOOP\r\n"
                     }] }
         ];
         /** @nocollapse */
