@@ -1,5 +1,7 @@
 ### [@coreui/angular](https://coreui.io/) changelog
 
+##### `v6.6.6`
+- update: Justin was mucking with crap
 ##### `v2.4.3`
 - update: `@coreui/coreui` to `^2.1.7`
 - update: `@angular/animations` to `^7.2.6`
